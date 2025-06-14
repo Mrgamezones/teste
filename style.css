@@ -157,10 +157,13 @@ body{
 }
 
 .fa.fa-instagram {
-    color: #E1306c;
+     background-color: #f2f5f9;
 
 }
 
 .fa.fa-instagram:hover {
-    color: #c13584;
+     background-color: #25375f;
+    color: #FFF;
+    cursor: pointer;
+   
 }
